@@ -9,4 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahrufforhad&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrufforhad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=mahrufforhad&icon=5&color=6)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadhossain60&label=Profile%20views&color=0bd074&style=flat" alt="forhadhossain60" /> </p>
