@@ -5,47 +5,39 @@
 ---
 
 ## Tech Stack:
-# Tech Stack
-
-### Frontend
+#### Frontend
 - HTML5, CSS3
 - JavaScript, TypeScript
-
-### Frontend Frameworks & Libraries
+#### Frontend Frameworks & Libraries
 - React.js
 - Next.js
 - React Router
 - Context API
 - jQuery
-
-### Styling & UI
+#### Styling & UI
 - TailwindCSS
 - Material-UI (MUI)
-
-### Backend & APIs
+#### Backend & APIs
 - Node.js
 - Express.js
 - JWT (JSON Web Tokens)
 
-### Databases & ORM
+#### Databases & ORM
 - MongoDB
 - Prisma
 - Supabase
 - Firebase
-
-### Programming Languages
+#### Programming Languages
 - Python
 - C
 - C++
 - Go
-
-### Development Tools & Platforms
+#### Development Tools & Platforms
 - Git
 - Postman
 - Figma
 - Vercel
-
-### Computer Vision
+#### Computer Vision
 - OpenCV
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
