@@ -1,4 +1,4 @@
-> ### "Code is like humor. When you have to explain it, it's bad." - Cory House
+> <b>"Code is like humor. When you have to explain it, it's bad."<br>- Cory House</b>
 
 <p>🔭 Currently working on ed-tech and startups.<br>🌿 Learning to socialize.<br>🔍 Excited to work on impactful ideas.</p>
 
