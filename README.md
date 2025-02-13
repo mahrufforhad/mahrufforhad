@@ -4,9 +4,10 @@
 
 ### Tech Stack:
 #### Programming Languages
-- Python
+- JavaScript
 - C
 - C++
+- Python
 - Go
 #### Frontend
 - HTML5, CSS3
