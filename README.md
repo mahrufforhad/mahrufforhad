@@ -51,7 +51,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=github_dark_dimmed)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=mahrufforhad&icon=5&color=12)](https://visitcount.itsvg.in)
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=forhadhossain60&label=Profile%20views&color=0bd074&style=flat" alt="forhadhossain60"/></p>
