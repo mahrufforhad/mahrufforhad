@@ -13,14 +13,18 @@
 - Go
 #### Frontend, Frameworks, Libraries and UI
 - HTML5, CSS3
-- JavaScript, TypeScript
-- React.js
-- Next.js
-- React Router
-- Context API
-- jQuery
 - TailwindCSS
 - Material-UI (MUI)
+- ShadCN/UI
+- JavaScript
+- jQuery
+- TypeScript
+- React.js
+- Context API
+- React Router
+- Next.js
+- Search Engine Optimization
+- Structured Data
 #### Backend & APIs, Databases & ORM, Dev Tools
 - Node.js
 - Express.js
