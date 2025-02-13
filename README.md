@@ -10,7 +10,7 @@
 - C++
 - Python
 - Go
-#### Frontend, Frameworks, Libraries and UI
+> Frontend, Frameworks, Libraries and UI
 - HTML5, CSS3
 - TailwindCSS
 - Material-UI (MUI)
@@ -24,7 +24,7 @@
 - Next.js
 - Search Engine Optimization
 - Structured Data
-#### Backend & APIs, Databases & ORM and Dev Tools
+> Backend & APIs, Databases & ORM and Dev Tools
 - Node.js
 - Express.js
 - JWT (JSON Web Tokens)
@@ -36,7 +36,7 @@
 - Postman
 - Figma
 - Vercel
-#### Computer Vision
+> Computer Vision
 - OpenCV
 
 ---
