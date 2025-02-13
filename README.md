@@ -25,7 +25,7 @@
 - Next.js
 - Search Engine Optimization
 - Structured Data
-#### Backend & APIs, Databases & ORM, Dev Tools
+#### Backend & APIs, Databases & ORM and Dev Tools
 - Node.js
 - Express.js
 - JWT (JSON Web Tokens)
