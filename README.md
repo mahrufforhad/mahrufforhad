@@ -48,7 +48,7 @@
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=github_dark_dimmed)
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ---
 <p align="left"><img src="https://komarev.com/ghpvc/?username=forhadhossain60&label=Profile%20views&color=0bd074&style=flat" alt="forhadhossain60"/></p>
