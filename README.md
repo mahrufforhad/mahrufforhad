@@ -42,11 +42,11 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrufforhad&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrufforhad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-![](https://github-contributor-stats.vercel.app/api?username=mahrufforhad&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mahrufforhad&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 ---
 <p align="left"><img src="https://komarev.com/ghpvc/?username=forhadhossain60&label=Profile%20views&color=0bd074&style=flat" alt="forhadhossain60"/></p>
