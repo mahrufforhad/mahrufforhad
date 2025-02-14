@@ -30,6 +30,7 @@
 - Node.js
 - Express.js
 - JWT (JSON Web Tokens)
+- Redis
 - MongoDB
 - Prisma
 - Supabase
