@@ -2,7 +2,33 @@
 
 <p>🔭 Currently working on ed-tech and startups.<br>🌿 Learning to socialize.<br>🔍 Excited to work on impactful ideas.</p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/forhadhossain.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahrufforhad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahruf_forhad)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/forhadhossain.me) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahrufforhad) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahruf_forhad)
+
+---
+
+> <b>🔗 Links</b>
+
+- Visit [BrainSton LMS Demo](https://demo.brainstonlms.com)
+- Visit [PlayGridz](https://theplaygridz.com)
+- Visit [KnowYourSenior - CUET](https://knowyoursenior.hoveredhq.com)
+- Visit [Viral Machine](https://viralmachine.vercel.app)
+- Visit [RedSouls (A non profit blood donating app)](https://redsouls.vercel.app)
+- Visit [BildZeitsSchrift](https://bildzeitschrift.web.app)
+- Visit [HoveredUs (A social media platform)](https://hoveredus.vercel.app)
+- Visit [Vocabprep](https://vocabprep.vercel.app)
+
+**LMS Projects:**
+- [MediShark](https://medisharkbd.com)
+- [Physics Maniac](https://physicsmaniac.net)
+- [GuidelineBox](https://guidelinebox.com)
+- [Abrotune](https://abrotune.com)
+- [OxyChem](https://oxychem.net)
+- [Joynal Academy](https://joynal.academy)
+- [FitTech](https://fittechbs.vercel.app)
+and more...
+---
 
 > <b>Programming Languages</b>
 - JavaScript
