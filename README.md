@@ -31,10 +31,11 @@ and more...
 ---
 
 > <b>Programming Languages</b>
-- JavaScript
 - C
 - C++
 - C#
+- JavaScript
+- TypeScript
 - Python
 - Go
 
