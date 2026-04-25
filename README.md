@@ -10,66 +10,21 @@
 
 > <b>🔗 Links</b>
 
-- Visit [BrainSton LMS Demo](https://demo.brainstonlms.com)
-- Visit [PlayGridz](https://theplaygridz.com)
-- Visit [KnowYourSenior - CUET](https://knowyoursenior.hoveredhq.com)
-- Visit [Viral Machine](https://viralmachine.vercel.app)
-- Visit [RedSouls (A non profit blood donating app)](https://redsouls.vercel.app)
-- Visit [BildZeitsSchrift](https://bildzeitschrift.web.app)
-- Visit [HoveredUs (A social media platform)](https://hoveredus.vercel.app)
-- Visit [Vocabprep](https://vocabprep.vercel.app)
+- Visit [Hovered](https://hoveredgroup.com)
+- Visit [BrainSton LMS](https://brainstonlms.com)
+- Visit [Cartenly](https://cartenly.com)
+- Visit [FitFamz](https://fitfamz.com)
 
-**LMS Projects:**
+**LMS Platforms:**
 - [MediShark](https://medisharkbd.com)
 - [Physics Maniac](https://physicsmaniac.net)
 - [GuidelineBox](https://guidelinebox.com)
 - [Abrotune](https://abrotune.com)
 - [OxyChem](https://oxychem.net)
+- [English with Baki](https://englishwithbaki.com)
 - [Joynal Academy](https://joynal.academy)
-- [FitTech](https://fittechbs.vercel.app)
+- [FitFamz](https://fitfamz.com)
 and more...
----
-
-> <b>Programming Languages</b>
-- C
-- C++
-- C#
-- JavaScript
-- TypeScript
-- Python
-- Go
-
-> <b>Frontend, Frameworks, Libraries and UI</b>
-- HTML5, CSS3
-- TailwindCSS
-- Material-UI (MUI)
-- ShadCN/UI
-- JavaScript
-- jQuery
-- TypeScript
-- React.js
-- Context API
-- React Router
-- Next.js
-- Search Engine Optimization
-- Structured Data
-
-> <b>Backend & APIs, Databases & ORM and Dev Tools</b>
-- Node.js
-- Express.js
-- JWT (JSON Web Tokens)
-- Redis
-- MongoDB
-- Prisma
-- Supabase
-- Firebase
-- Git
-- Postman
-- Figma
-- Vercel
-
-> <b>Computer Vision</b>
-- OpenCV
 
 ---
 
