@@ -1,6 +1,6 @@
 > <b>"Code is like humor. When you have to explain it, it's bad."<br>- Cory House</b>
 
-<p>🔭 Currently working on ed-tech and startups.<br>🌿 Learning to socialize.<br>🔍 Excited to work on impactful ideas.</p>
+<p>Currently working on ed-tech and startups.<br>Learning to socialize.<br>Excited to work on impactful ideas.</p>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/forhadhossain.me) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahrufforhad) 
